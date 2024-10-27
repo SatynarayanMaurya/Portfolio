@@ -558,7 +558,7 @@ function Header() {
                     </div>
                     <div>
 
-                        <div className='flex justify-between items-center mt-3'>
+                        <div className='flex lg:flex-row flex-col-reverse lg:justify-between  lg:items-center lg:gap-0 gap-4 mt-3'>
                             <p className='mt-6 lg:ml-10 ml-4'><span className='text-xl'>&copy;</span> Satynarayan Maurya</p>
                             <div className='flex gap-3'>
                                 <p className='font-semibold'>mail to : </p>
